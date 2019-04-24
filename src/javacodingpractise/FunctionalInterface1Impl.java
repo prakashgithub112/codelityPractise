@@ -1,4 +1,4 @@
-package java8;
+package javacodingpractise;
 
 public class FunctionalInterface1Impl {
 

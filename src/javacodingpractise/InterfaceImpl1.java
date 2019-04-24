@@ -1,6 +1,6 @@
-package java8;
+package javacodingpractise;
 
-public class ForEach {
+public class InterfaceImpl1 implements Interface1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,4 +1,4 @@
-package java8;
+package javacodingpractise;
 
 import java.awt.*;  
 public class LambdaExpression1 {  

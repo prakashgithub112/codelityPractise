@@ -1,4 +1,4 @@
-package java8;
+package javacodingpractise;
 
 @FunctionalInterface
 interface FunctionalInterface1 {

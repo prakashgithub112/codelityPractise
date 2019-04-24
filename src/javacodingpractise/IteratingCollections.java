@@ -1,4 +1,4 @@
-package java8;
+package javacodingpractise;
 
 import java.util.ArrayList;
 import java.util.List;
