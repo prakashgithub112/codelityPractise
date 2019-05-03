@@ -7,7 +7,7 @@ public class ThreadExampleMain {
 	               
 	  System.out.println("Main thread execution starts");
 	  MyRunnable mr=new MyRunnable();
-	  
+
 	  Thread t1=new Thread(mr,"Thread 1");
 	  Thread t2=new Thread(mr,"Thread 2");
 	  Thread t3=new Thread(mr,"Thread 3");
